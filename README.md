@@ -1,2 +1,1 @@
-# DigitalImageProcessingLabs
-Dip laps daiict
+# Digital Image Processing Codes For Different Filters
